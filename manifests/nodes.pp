@@ -1,0 +1,1 @@
+/etc/puppet/modules/site/ext/nodes.pp
